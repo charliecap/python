@@ -19,11 +19,18 @@ def calculateAge(born):
     else:
         return today.year - born.year
 
+# variables set for my details and age formula
 
 my_name = "Charlie"
 my_age = calculateAge(date(1988, 6, 8))
 my_trainer_id = "CharlieCap"
 
-print(my_name, my_age, my_trainer_id)
+# print(my_name, my_age, my_trainer_id)
+
+# more variables added
+
+# how to set a name to grab the input on the page
+greeting = "Hello there, " + name
+
 
 
