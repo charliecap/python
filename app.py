@@ -32,13 +32,9 @@ my_trainer_id = "CharlieCap"
 # how to set a name to grab the input on the page
 greeting = "Hello there, " + name
 
-<<<<<<< HEAD
 # TOKEN = 'NzYyNzE2MTQxODM0OTkzNzA1.X3tMwg.gkxTUrHC6vEHYRnu-Wo2_GEGv1E'
-=======
->>>>>>> 529b20d933eb76d99810e165dacc0328b273376b
 
 
-<<<<<<< HEAD
 # @client.event
 # async def on_message(message):
 #     # we do not want the bot to reply to itself
@@ -59,5 +55,3 @@ greeting = "Hello there, " + name
 # client.run(TOKEN)
 
 
-=======
->>>>>>> 529b20d933eb76d99810e165dacc0328b273376b
