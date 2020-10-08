@@ -20,7 +20,7 @@ def calculateAge(born):
         return today.year - born.year
 
 # variables set for my details and age formula
-
+name = "you"
 my_name = "Charlie"
 my_age = calculateAge(date(1988, 6, 8))
 my_trainer_id = "CharlieCap"
@@ -31,6 +31,7 @@ my_trainer_id = "CharlieCap"
 
 # how to set a name to grab the input on the page
 greeting = "Hello there, " + name
+print(greeting)
 
 # TOKEN = 'NzYyNzE2MTQxODM0OTkzNzA1.X3tMwg.gkxTUrHC6vEHYRnu-Wo2_GEGv1E'
 
