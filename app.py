@@ -1,6 +1,7 @@
 # from datetime import date
 # import datetime
 
+# datetime.datetime.now()
 
 # def calculateAge(born):
 #     today = date.today()
@@ -18,7 +19,6 @@
 #     else:
 #         return today.year - born.year
 
-
 # variables set for my details and age formula
 # my_name = "Charlie"
 # my_age = calculateAge(date(1988, 6, 8))
@@ -29,7 +29,8 @@
 # more variables added
 
 # how to set a name to grab the input on the page
-name = input("What's your name?")
+# name = input("What's your name?")
+# 
+# greeting = "Hello there, " + name
+# print(greeting)
 
-greeting = "Hello there, " + name
-print(greeting)
